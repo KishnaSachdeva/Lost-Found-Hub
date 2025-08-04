@@ -14,7 +14,7 @@ A system to help users report and find lost items **easily**.
 - 🖥️ **YB** - Frontend Developer & Team Leader 
 - 💾 **Kishna** - Frontend Dev & Tester 
 - 🎨 **Sarika** - Frontend developer
-- 🗄️ **Smrit** - Frontend developer
+- 🗄️ **Smriti** - Frontend developer
 - 📌 **Ayush** - Frontend developer  
 
 ---
